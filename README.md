@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![tumblr2](https://github.com/YvonneAriri/Capstone_YvonneAriri/assets/102451432/dff9ae86-93c9-4563-a9fb-48c5014e71a4)
+![tumblr2](https://github.com/YvonneAriri/Capstone_YvonneAriri/assets/102451432/5e840959-3a74-41ac-9c96-1bc8b493408e)
 
 
 
